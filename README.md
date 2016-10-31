@@ -1,7 +1,7 @@
 Pecha Kucha
 ===========
 
-!(webpage.png)
+![Web UI](webpage.png)
 
 Put `PKSlides` under the image folder.
 Edit the slides, add your own.
