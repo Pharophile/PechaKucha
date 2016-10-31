@@ -1,0 +1,4 @@
+PechaKucha application
+
+PKApplication declareApplicationAndStartServer.
+

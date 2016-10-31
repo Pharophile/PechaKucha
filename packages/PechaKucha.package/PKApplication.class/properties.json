@@ -1,0 +1,20 @@
+{
+	"category" : "PechaKucha",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PhilippeBack 11/1/2016 00:01",
+	"instvars" : [
+		"applicationName",
+		"screens",
+		"colors",
+		"interslideDelayInSeconds",
+		"currentSlide",
+		"times",
+		"startTime" ],
+	"name" : "PKApplication",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }
