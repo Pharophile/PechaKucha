@@ -16,7 +16,7 @@ Metacello new
     githubUser: 'Pharophile' 
     project: 'PechaKucha' 
     commitish: 'master' 
-    path: 'src';
+    path: 'packages';
     baseline: 'PechaKucha';
     onWarningLog;
     load
