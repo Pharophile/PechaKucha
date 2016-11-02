@@ -29,7 +29,7 @@ PKApplication declareApplicationAndStartServer.
 
 This starts a server on port 8082.
 
-Open the application on (http://localhost:8082/pechakucha).
+[Open the application](http://localhost:8082/pechakucha).
 
 This projet uses [MaterialDesignLite for Seaside](https://github.com/DuneSt/MaterialDesignLite)
 
