@@ -6,7 +6,9 @@ baseline: spec
 		
 		spec blessing: #release.
 		
-		spec	package: 'PechaKucha' with: [ spec requires: #('MaterialDesignLite') ].
+		spec	package: 'PechaKucha' with: [ 
+				spec repository: 'github://pharophile/PechaKucha:master/packages'.
+				spec requires: #('MaterialDesignLite') ].
 
 		self declareMaterialDesignLiteDependencyInSpec: spec.
 	
