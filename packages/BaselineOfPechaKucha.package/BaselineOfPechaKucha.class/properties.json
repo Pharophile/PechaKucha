@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfPechaKucha",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfPechaKucha",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
