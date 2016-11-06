@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfPechaKucha",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PhilippeBack 11/6/2016 21:49",
+	"instvars" : [
+		 ],
+	"name" : "ConfigurationOfPechaKucha",
+	"pools" : [
+		 ],
+	"super" : "ConfigurationOf",
+	"type" : "normal" }
